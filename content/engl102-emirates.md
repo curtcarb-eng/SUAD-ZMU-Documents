@@ -1,0 +1,1 @@
+/Users/curtcarbonell/Library/Mobile Documents/iCloud~md~obsidian/Documents/ios obsidian vault/2. Permanent _ Evergreen/1.Projects (temporary)/Sorbonne/ZMU - ENGL102 The Emirates Past, Present, Future.md
