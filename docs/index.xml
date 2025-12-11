@@ -6,23 +6,23 @@
       <description>Last 10 notes on Quartz 4</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
-    <title>engl102-emirates</title>
-    <link>https://quartz.jzhao.xyz/engl102-emirates</link>
-    <guid>https://quartz.jzhao.xyz/engl102-emirates</guid>
-    <description><![CDATA[ date:: 2025-12-10 up:: Curriculum ENGL102 Sorbonne tag:: MilitaryCadets UAE FirstYear Syllabus ZMU - ENGL102 The Emirates: Past, Present, Future Course Description This course helps military cadets learn about the United Arab Emirates through stories, videos, and discussions. ]]></description>
-    <pubDate>Thu, 11 Dec 2025 15:37:59 GMT</pubDate>
-  </item><item>
-    <title>engl102-humanities</title>
-    <link>https://quartz.jzhao.xyz/engl102-humanities</link>
-    <guid>https://quartz.jzhao.xyz/engl102-humanities</guid>
-    <description><![CDATA[ date:: 2025-12-10 up:: Curriculum ENGL101 Sorbonne tag:: MilitaryCadets Leadership Humanities FirstYear Syllabus Sorbonne ENGL102 Writing in the Humanities Course Description This course helps military cadets improve their writing skills while learning about leadership through interesting stories, m... ]]></description>
-    <pubDate>Thu, 11 Dec 2025 15:37:59 GMT</pubDate>
-  </item><item>
     <title>index</title>
     <link>https://quartz.jzhao.xyz/</link>
     <guid>https://quartz.jzhao.xyz/</guid>
     <description><![CDATA[ date:: 2025-12-08 up:: Alex tag:: Engl101 New Syllabi - ENGL Docs New Sorbonne ENGL 101 Syllabus – Academic Writing Note Transclude of Sorbonne ENGL102 Writing in the Humanities Note Transclude of ZMU - ENGL102 The Emirates Past, Present, Future Note Transclude of . ]]></description>
     <pubDate>Thu, 11 Dec 2025 15:37:59 GMT</pubDate>
+  </item><item>
+    <title>ZMU ENGL102 The Emirates: Past, Present, Future</title>
+    <link>https://quartz.jzhao.xyz/engl102-emirates</link>
+    <guid>https://quartz.jzhao.xyz/engl102-emirates</guid>
+    <description><![CDATA[ ZMU - ENGL102 The Emirates: Past, Present, Future Course Description This course helps military cadets learn about the United Arab Emirates through stories, videos, and discussions. ]]></description>
+    <pubDate>Wed, 10 Dec 2025 20:00:00 GMT</pubDate>
+  </item><item>
+    <title>Sorbonne ENGL102 Writing in the Humanities</title>
+    <link>https://quartz.jzhao.xyz/engl102-humanities</link>
+    <guid>https://quartz.jzhao.xyz/engl102-humanities</guid>
+    <description><![CDATA[ Sorbonne ENGL102 Writing in the Humanities Course Description This course helps military cadets improve their writing skills while learning about leadership through interesting stories, movies, and real examples. ]]></description>
+    <pubDate>Wed, 10 Dec 2025 20:00:00 GMT</pubDate>
   </item>
     </channel>
   </rss>
