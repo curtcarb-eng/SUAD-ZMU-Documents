@@ -1,0 +1,14 @@
+*.pdf
+*.pptx
+*.docx
+*.doc
+*.xlsx
+*.zip
+*.png
+*.jpg
+*.jpeg
+*.webp
+*.mobi
+*.epub
+sorbonne/Leadership/**
+sorbonne/Old Syllabi/**
