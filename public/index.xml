@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+    <channel>
+      <title>Quartz 4</title>
+      <link>https://quartz.jzhao.xyz</link>
+      <description>Last 10 notes on Quartz 4</description>
+      <generator>Quartz -- quartz.jzhao.xyz</generator>
+      <item>
+    <title>index</title>
+    <link>https://quartz.jzhao.xyz/</link>
+    <guid>https://quartz.jzhao.xyz/</guid>
+    <description><![CDATA[ New Syllabi - SUAD ZMU Docs Sorbonne ENGL 101 Syllabus Academic Writing Sorbonne ENGL 102 Writing in the Humanities ZMU ENGL 102 The Emirates Past Present Future. ]]></description>
+    <pubDate>Fri, 12 Dec 2025 05:43:25 GMT</pubDate>
+  </item><item>
+    <title>Sorbonne ENGL 101 Syllabus – Academic Writing</title>
+    <link>https://quartz.jzhao.xyz/Sorbonne-ENGL-101-Syllabus-Academic-Writing</link>
+    <guid>https://quartz.jzhao.xyz/Sorbonne-ENGL-101-Syllabus-Academic-Writing</guid>
+    <description><![CDATA[ Sorbonne ENGL 101 Syllabus Academic Writing Course Description This course develops academic writing, reading, and critical thinking skills. ]]></description>
+    <pubDate>Wed, 10 Dec 2025 20:00:00 GMT</pubDate>
+  </item><item>
+    <title>Sorbonne ENGL102 Writing in the Humanities</title>
+    <link>https://quartz.jzhao.xyz/Sorbonne-ENGL-102-Writing-in-the-Humanities</link>
+    <guid>https://quartz.jzhao.xyz/Sorbonne-ENGL-102-Writing-in-the-Humanities</guid>
+    <description><![CDATA[ Sorbonne ENGL 102 Writing in the Humanities Course Description This course helps military cadets improve their writing skills while learning about leadership through interesting stories, movies, and real-world examples. ]]></description>
+    <pubDate>Wed, 10 Dec 2025 20:00:00 GMT</pubDate>
+  </item><item>
+    <title>ZMU ENGL102 The Emirates: Past, Present, Future</title>
+    <link>https://quartz.jzhao.xyz/ZMU-ENGL-102-The-Emirates-Past-Present-Future</link>
+    <guid>https://quartz.jzhao.xyz/ZMU-ENGL-102-The-Emirates-Past-Present-Future</guid>
+    <description><![CDATA[ ZMU ENGL 102 The Emirates Past Present Future Course Description This course helps military cadets learn about the United Arab Emirates through stories, videos, and discussions. ]]></description>
+    <pubDate>Wed, 10 Dec 2025 20:00:00 GMT</pubDate>
+  </item>
+    </channel>
+  </rss>
